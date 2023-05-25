@@ -9,4 +9,3 @@
 200 ; Sachs ; V5 ; 70 ;porto.ribeira.queimar; 200; 3
 50 ; Honda ; Hornete ; 5 ;porto.ribeira.queimar; 150; 3
 5 ; Xiaomi; V1; 50 ;porto.gaia.sul; 20; 1
-
