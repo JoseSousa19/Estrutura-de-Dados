@@ -1,4 +1,4 @@
-55 ; 555; 5; 5 ;porto.gaia.TESTE; 55; 1
+55 ; Xiaomi; V5; 5 ;porto.gaia.norte; 55; 1
 30 ; RENAULT; SCENIC; 5 ;braga.maximinos.cliente; 55; 4
 120 ; LG ; C160 ; 50 ;barcelos.negreiros.queimar; 125; 9
 130 ; Oppo ; Reno ; 8 ;barcelos.viatodos.queimar; 220; 8
@@ -8,4 +8,5 @@
 100 ; Honda ; C110 ; 50 ;braga.maximinos.cliente; 50; 4
 200 ; Sachs ; V5 ; 70 ;porto.ribeira.queimar; 200; 3
 50 ; Honda ; Hornete ; 5 ;porto.ribeira.queimar; 150; 3
-5 ; Teste; V1; 50 ;porto.gaia.teste; 20; 1
+5 ; Xiaomi; V1; 50 ;porto.gaia.sul; 20; 1
+
