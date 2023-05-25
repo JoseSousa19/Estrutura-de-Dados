@@ -1,0 +1,4 @@
+4 ; Manuel ; Padre ; 509823777
+3 ; Joao ; Pereira ; 123
+2 ; Antonio ; Joaquim ; 123
+1 ; Moreira; Domingos ; 1
