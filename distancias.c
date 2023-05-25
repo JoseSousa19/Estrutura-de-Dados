@@ -184,7 +184,7 @@ int dijkstra(int G[VERTICES][VERTICES],int n,int startnode,mme* inicioM,aluguer*
 
  				while(inicioM != NULL){	
 
- 					if (i == inicioM->vertice && inicioM->Autonomia > 25){ //se o vertice do meio de mobilidade for igual ao i
+ 					if (i == inicioM->vertice){ //se o vertice do meio de mobilidade for igual ao i
 
 	 					naotem=0; //vai colocar a variavel naotem em 0 para demonstrar que existe algum meio no vertice i
 	 					apoio=1;

@@ -238,7 +238,7 @@ int main(int argc, char *argv[]) {
 							verticeperto=dijkstra(Matriz,VERTICES,local,inicioM,inicioAl); // Executa o algoritmo de Dijkstra
 							while (inicioM != NULL){
 								
-	    						if (verticeperto == inicioM->vertice && inicioM->Autonomia > 25){ // Verifica se o vértice corresponde ao mais próximo
+	    						if (verticeperto == inicioM->vertice){ // Verifica se o vértice corresponde ao mais próximo
 	    						
 	    							while (inicioAl != NULL){
 	    							
